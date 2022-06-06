@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋👋 Hola! mi nombre es Cristian, Soy una persona muy curiosa y apasionada por la tecnología en general.
+### Actualmente me estoy capacitando en desarrollo web full stack en Argentina Programa, front end en Oracle
+### Next Education, y estoy cursando la tecnicatura superior en desarrollo web en el ISPC. Estoy buscando mí
+### primer experiencia laboral en el mundo IT y me gustaría contar con tu apoyo. 
 
 <!--
 **veracristian89/veracristian89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
